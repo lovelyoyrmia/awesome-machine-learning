@@ -256,6 +256,7 @@ Further resources:
 <a name="cpp-speech-recognition"></a>
 #### Speech Recognition
 * [Kaldi](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
+* [Alan](https://github.com/alan-ai) - Alan AI® mission is to "enable reliable voice assistant" for any mobile and web application. We know that voice is the next frontier. Everybody is pushing it but we have not seen a major adoption. The experience is clunky, you always have to talk to a mediator that is totally not intuitive. And not only that the functionality is limited. Alan AI has developed fundamental AI technology leveraging the "non-verbal" context to enable mobile applications and websites to have direct human-like conversations with their users. The Alan voice assistant experience is intuitive, with no intermediaries, and complete functionality for any application user. Our product, the Alan Platform, enables deployment of the voice assistant experience in days for any mobile app and website. Alan AI is a complete platform with all you need to empower your existing application by conversational AI with minimal changes and deploy to production in a matter of days.
 
 <a name="cpp-sequence-analysis"></a>
 #### Sequence Analysis
